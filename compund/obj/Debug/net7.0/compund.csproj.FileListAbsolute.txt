@@ -1,0 +1,14 @@
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\bin\Debug\net7.0\compund.exe
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\bin\Debug\net7.0\compund.deps.json
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\bin\Debug\net7.0\compund.runtimeconfig.json
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\bin\Debug\net7.0\compund.dll
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\bin\Debug\net7.0\compund.pdb
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.AssemblyInfo.cs
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.dll
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\refint\compund.dll
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.pdb
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\compund.genruntimeconfig.cache
+C:\Users\casey\Desktop\School\Fall 2023\MIS321\daily\compund\obj\Debug\net7.0\ref\compund.dll
